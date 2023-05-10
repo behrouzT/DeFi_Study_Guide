@@ -2,7 +2,7 @@
 
 Embark on your DeFi journey with this extensive compilation of essential readings. Regardless if you're just starting out or already a DeFi aficionado, these materials will certainly expand your knowledge.
 
-[![Contact US](https://img.shields.io/badge/Contact%20US-Linkedin-blue)](https://www.linkedin.com/in/behrouz-torabi-409500173/)
+[![Follow me](https://img.shields.io/badge/linkedin-follow%20me-blue)](https://www.linkedin.com/in/behrouz-torabi-409500173/)
 
 
 <h2> Understanding DeFi </h2>
